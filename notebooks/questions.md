@@ -19,3 +19,5 @@
 - Ridge vs Lasso
 
 - Data Leakage
+
+- Cross-validation
