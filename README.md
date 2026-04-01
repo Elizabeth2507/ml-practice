@@ -22,7 +22,14 @@ cd ml-practice
 
 python -m venv .venv
 
-source .venv/bin/activate
+source .venv/bin/activate - Linux
+
+or
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned  - Windows
+
+.venv\Scripts\Activate.ps1
+
 
 pip install jupyter numpy pandas matplotlib scikit-learn seaborn
 
