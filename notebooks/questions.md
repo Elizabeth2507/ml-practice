@@ -10,7 +10,7 @@
 
 - MSE, RMSE, MAE, R²
 
-- overfitting
+- overfitting, underfitting
 
 - multicollinearity
 
@@ -21,3 +21,9 @@
 - Data Leakage
 
 - Cross-validation
+
+- Polynomial Regression
+
+- Ridge Regression (L2 Regularization)
+
+- What is the relation b/w lamdba and slope square in L2 Regularization?
