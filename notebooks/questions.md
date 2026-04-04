@@ -27,3 +27,13 @@
 - Ridge Regression (L2 Regularization)
 
 - What is the relation b/w lamdba and slope square in L2 Regularization?
+
+- Lasso Regularization (L1 Regularization)
+
+- What is the relation b/w lamdba and magnitude of slope  in L2 Regularization?
+
+- ElasticNet Regularization
+
+- Types of Cross-Validation?
+
+- 
